@@ -1,0 +1,104 @@
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica;
+	background-color: white;
+	color: black;
+}
+
+ul { 
+	list-style: square url("http://www.microarch.org/micro35/StylePics/bstrbu1.gif");
+	margin-top:0px;
+	margin-bottom:0px; 
+}
+
+ul ul { 
+	list-style: square url("http://www.microarch.org/micro35/StylePics/bstrbu2.gif");
+	margin-top:0px;
+	margin-bottom:0px; 
+}
+
+ul ul ul { 
+	list-style: square url("http://www.microarch.org/micro35/StylePics/bstrbu3.gif");
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+li {
+	list-style: square;
+	padding-left: 10px;
+	margin-left: -5px;
+}
+
+a:link { 
+	color: rgb(51, 102, 153) 
+}
+
+a:active { 
+	color: rgb(102, 102, 102) 
+}
+
+a:visited { 
+	color: rgb(51, 102, 153) 
+}
+
+table { 
+	font-family: 'Trebuchet MS', Arial, Helvetica; 
+	font-style: Normal; 
+}
+
+td {
+	font-family: 'Trebuchet MS', Arial, Helvetica;
+	font-style: Normal;
+}
+
+.timecolumn {
+	font-weight: bold;
+}
+
+.sessioncolumn {
+	font-weight: bold;
+	color: gray;
+	margin-left: 2em;
+}
+
+.descriptioncolumn {
+	font-style: italic;
+	margin-left: 2em;
+}
+
+.papertitle {
+	font-weight: bold;
+}
+
+.paperauthor {
+	font-style: italic;
+}
+
+.paperdownloads {
+	font-weight: bold;
+	color: gray;
+}
+
+.sessiontitle {
+	font-weight: bold;
+	background-color: darkgreen;
+	color: white;
+	margin-top: 2em;
+}
+
+.sessionchair {
+	font-style: italic;
+	margin-bottom: 1em;
+}
+
+.dayheading {
+	font-weight: bold;
+	font-size: large;
+	margin-bottom: 1em;
+}
+
+.corplogo {
+	width: 170;
+	nosave="";
+	border="0";
+}
+

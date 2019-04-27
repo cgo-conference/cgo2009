@@ -1,0 +1,28 @@
+/* additional style directions for leftmenu */
+body {
+	background-image: url('http://cgo.org/cgo2009/StylePics/bstrbk.gif')
+}
+
+
+a:link { 
+	text-decoration: none
+}
+
+a:active { 
+	text-decoration: none
+}
+
+a:visited { 
+	text-decoration: none
+}
+
+a:hover {
+	color: rgb(0,0,0)
+}
+
+p {
+ 	margin-top: 8px; 
+	margin-bottom: 0px;
+	font-family: Arial;
+	font-size: 13px 
+}
